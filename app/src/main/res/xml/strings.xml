@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<resources>
+    <string name="app_name">Note To Aleyna Kucuksonmez</string>
+    <string name="hello_world">Hello
+        world!</string>
+    <string
+        name="action_settings">Settings</string>
+    <string name="action_add">add</string>
+    <string
+        name="title_hint">Title</string>
+    <string
+        name="description_hint">Description</string>
+    <string name="idea_text">Idea</string>
+    <string
+        name="important_text">Important</string>
+    <string name="todo_text">To
+        do</string>
+    <string
+        name="cancel_button">Cancel</string>
+    <string name="ok_button">OK</string>
+
+    <string
+        name="settings_title">Settings</string>
+    <string
+        name="theme_title">Theme</string>
+    <string
+        name="theme_light">Light</string>
+    <string
+        name="theme_dark">Dark</string>
+
+</resources>
+</PreferenceScreen>

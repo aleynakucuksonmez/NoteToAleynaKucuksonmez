@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editDescription" type="id" />
+    <item name="checkBoxIdea" type="id" />
+    <item name="checkBoxTodo" type="id" />
+</resources>
